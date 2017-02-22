@@ -1,0 +1,9 @@
+c:\users\isabella.riquetti\documents\visual studio 2015\Projects\AutoUpdatePage\AutoUpdatePage\bin\Debug\AutoUpdatePage.exe.config
+c:\users\isabella.riquetti\documents\visual studio 2015\Projects\AutoUpdatePage\AutoUpdatePage\bin\Debug\AutoUpdatePage.exe
+c:\users\isabella.riquetti\documents\visual studio 2015\Projects\AutoUpdatePage\AutoUpdatePage\bin\Debug\AutoUpdatePage.pdb
+c:\users\isabella.riquetti\documents\visual studio 2015\Projects\AutoUpdatePage\AutoUpdatePage\obj\Debug\AutoUpdatePage.csprojResolveAssemblyReference.cache
+c:\users\isabella.riquetti\documents\visual studio 2015\Projects\AutoUpdatePage\AutoUpdatePage\obj\Debug\AutoUpdatePage.Properties.Resources.resources
+c:\users\isabella.riquetti\documents\visual studio 2015\Projects\AutoUpdatePage\AutoUpdatePage\obj\Debug\AutoUpdatePage.csproj.GenerateResource.Cache
+c:\users\isabella.riquetti\documents\visual studio 2015\Projects\AutoUpdatePage\AutoUpdatePage\obj\Debug\AutoUpdatePage.exe
+c:\users\isabella.riquetti\documents\visual studio 2015\Projects\AutoUpdatePage\AutoUpdatePage\obj\Debug\AutoUpdatePage.pdb
+C:\Users\isabella.riquetti\Documents\Visual Studio 2015\Projects\AutoUpdatePage\AutoUpdatePage\obj\Debug\AutoUpdatePage.AutoUpdate.resources
